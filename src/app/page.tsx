@@ -1,3 +1,5 @@
+import { Chart } from "@/components/Chart";
+
 export default function Home() {
-  return <h1>Home</h1>;
+  return <Chart />;
 }
